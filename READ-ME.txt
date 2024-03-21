@@ -1,3 +1,4 @@
+<<<<<<< HEAD
   =>  Template Name    : Sachin Physio - Physical Therapy Website Template
 
   =>  Template Link    : https://htmlcodex.com/physical-therapy-website-template
@@ -6,4 +7,14 @@
 
   =>  Template Author  : HTML Codex
 
+=======
+  =>  Template Name    : Sachin Physio - Physical Therapy Website Template
+
+  =>  Template Link    : https://htmlcodex.com/physical-therapy-website-template
+
+  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+
+  =>  Template Author  : HTML Codex
+
+>>>>>>> ed6ba3e6dd83efb7056d1b40c0b7f038b5bfdc98
   =>  Author Website   : https://htmlcodex.com
